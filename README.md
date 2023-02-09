@@ -1,5 +1,5 @@
 # RustScripts
-Serverside scripts for Rust. Compatible with any version of Rust made with the Unity Engine.
+Serverside scripts for (the game) Rust. Compatible with any version of Rust made with the Unity Engine.
 
 # How to install
 Read: https://umod.org/documentation/plugins/installation
